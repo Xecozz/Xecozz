@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xecozz, 16 years old
+- 👋 Hi, I’m @Xecozz, 17 years old
 - 👀 I’m interested in Discord BOT
 - 🌱 I’m currently learning javascript ans python
 
