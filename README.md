@@ -27,6 +27,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
