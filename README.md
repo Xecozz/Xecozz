@@ -20,7 +20,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :seedling: Student in 🇫🇷.
 
-- :zap: I’m currently learning **py/javascript**
+- :zap: I’m currently learning **py/javascript/c#**
 
 - :mailbox:How to reach me in Discord  -> Xecozz#2281
 
@@ -40,7 +40,4 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xecozz&theme=dark&hide_border=true&locale=fr)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xecozz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
