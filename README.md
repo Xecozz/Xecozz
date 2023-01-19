@@ -8,7 +8,7 @@
 </div>
 <div id="Presentation" align="center">
   <h1>
-  Salut,je m'appelle Xecozz
+  Salut, je m'appelle Xecozz
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
  </div>
@@ -16,13 +16,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de France.
+Je suio un développeur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de France.
 
 - :seedling: étudiant en 🇫🇷.
 
-- :zap: J'apprend actuellemen **py/javascript/c#**
+- :zap: J'apprend actuellement **py/javascript/c#**
 
-- :mailbox:Pour me joindre : Discord  -> Xecozz#2281
+- :mailbox: Pour me joindre : Discord  -> Xecozz#2281
 
 ### :hammer_and_wrench: Languages et Tools :
 
