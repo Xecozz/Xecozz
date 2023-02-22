@@ -37,7 +37,3 @@ Je suis un développeur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/>
 </div>
 
-### :fire: Mes Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xecozz&theme=dark&hide_border=true&locale=fr)](https://git.io/streak-stats)
-
