@@ -28,6 +28,7 @@ Je suis un développeur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
