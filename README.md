@@ -37,4 +37,5 @@ Je suis un développeur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/>
 </div>
-
+```math
+\ce{$\unicode[color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Nanapiou/Nanapiou/main/assets/just_a_random_pic.png') no-repeat center center fixed; background-size: cover;]{x0000}$}
