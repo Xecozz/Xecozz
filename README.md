@@ -21,7 +21,7 @@ Je suis un développeur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: J'apprend actuellement **py/javascript/c#**
 
-- :mailbox: Pour me joindre : Discord  -> Xecozz#2281
+- :mailbox: Pour me joindre : Discord -> Xecozz#2281
 
 ### :hammer_and_wrench: Languages et Tools :
 
@@ -40,4 +40,5 @@ Je suis un développeur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 Except for this!
 
 ```math
-\ce{$\unicode[color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Nanapiou/Nanapiou/main/assets/just_a_random_pic.png') no-repeat center center fixed; background-size: cover;]{x0000}$}
+\ce{$\unicode[color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Xecozz/Xecozz/main/assets/space.jpg') no-repeat center center fixed; background-size: cover;]{x0000}$}
+```
