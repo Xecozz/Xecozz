@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at BUT Informatique in Ifs<br>Developer for the VersonHM association <br>Entrain de développer une application react native + expo<br>🔭 I’m currently working react native +expo app<br>🌱 I’m currently learning typescript and expo
+Student at BUT Informatique in Ifs<br>Developer for the VersonHM association <br>🔭 I’m currently working react native +expo app<br>🌱 I’m currently learning typescript and expo
 
 
 # 💻 Tech Stack:
